@@ -4,13 +4,23 @@ come back to codding projects
 
 
 This is our first project.
+
 Wednesday - Aug 31
+
 - JavaScript
-  Increment and Decrement a number
-  finding remainder
-  concatenating string with plus operator
-  find the first character in a string
+  .Increment and Decrement a number
+  .finding remainder
+  .concatenating string with plus operator
+  .find the first character in a string
+ - Git
+  .git status
+  .git diff
+  .git add
+  .git commit
+  .git push
+
 Monday - Sep 5
+
 - revise what we have done so far
 - data types
 - Arrays
