@@ -19,7 +19,7 @@ Wednesday - Aug 31
   /git commit
   /git push
 
-Monday - Sep 5
+Monday - Sep 5 (cancel)
 
 - revise what we have done so far
 - data types
