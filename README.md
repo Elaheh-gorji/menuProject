@@ -27,3 +27,5 @@ Monday - Sep 5 (cancel)
 - functions
 - objects
 - initialize projects
+
+Wednesday - sep 7
