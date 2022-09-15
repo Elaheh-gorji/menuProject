@@ -5,27 +5,7 @@ come back to codding projects
 
 This is our first project.
 
-Wednesday - Aug 31
+Thursday - Sep 15
+Remember, the fact that you can think, the fact that you can read this, the fact that you can learn and understand - all of this give you the ability to improve and achieve your goals. It's important to appreciate that not everyone is as lucky as you!
 
-- JavaScript:
-   Increment and Decrement a number
-  /finding remainder
-  /concatenating string with plus operator
-  /find the first character in a string
- - Git:
-   git status
-  /git diff
-  /git add
-  /git commit
-  /git push
-
-Monday - Sep 5 (cancel)
-
-- revise what we have done so far
-- data types
-- Arrays
-- functions
-- objects
-- initialize projects
-
-Wednesday - sep 7
+Angela
