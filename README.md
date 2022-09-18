@@ -10,13 +10,4 @@ Remember, the fact that you can think, the fact that you can read this, the fact
 Angela
 
 Friday - Sep 16
--Learning to code is a bit like going to the gym. First, it requires a lot of motivation to start. Next, develop it as a habit by continuously carrying out the task daily for a month.
--Code for a purpose. Think up a simple app or website that you want to make.
--There is no perfect language to learn.
--Understand what you're writing. You don't need more recipes, you need to learn to cook without them.
--It's ok to not know. Nobody can hold all the relevant information in their head. The skill that most employers look for is the ability to think. Find resources to help you solve your issues.
--Be a Copycat.
--Be Accountable. Just as you’re more likely to go to the gym if you
-sign up with your partner, you’re more likely to learn if you
-have a coding buddy.
--Keep learning. If you need change, learn to use a new tool.
+-Section1:Front-End Web Development.1:What you'll get in this course.2:Download the course syllabus.3:Download the course resources.4:The 12 rules to learn to code.5:How does the internet actully work.6:How do websites actually work.7:How to get the most out of the course.8:What you'll need to get started.9:Set up packages.10:How to get help when you are stuck.11:Path finder.
