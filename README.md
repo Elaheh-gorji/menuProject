@@ -11,3 +11,5 @@ Angela
 
 Friday - Sep 16
 -Section1:Front-End Web Development.1:What you'll get in this course.2:Download the course syllabus.3:Download the course resources.4:The 12 rules to learn to code.5:How does the internet actully work.6:How do websites actually work.7:How to get the most out of the course.8:What you'll need to get started.9:Set up packages.10:How to get help when you are stuck.11:Path finder.
+Saturday -Sep 17
+-Section2:Introduction to HTML
